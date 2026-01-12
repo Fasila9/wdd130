@@ -1,15 +1,19 @@
 .callout {
-	
+    background-color: beige;
+
 }
 
 .callout img {
-	
+    padding: 16px;
+
 }
 
 blockquote {
-	
+    margin: 10px;
+
 }
 
 cite {
-	
+    font-size: 15;
+
 }
